@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Aashish Joshi!  
 🔹 Passionate about **Web Development**, **UI/UX Design**, and **Data Structures & Algorithms**.  
-🔹 Currently learning **DSA** & exploring **backend development**.  
+## 🌱 Currently Learning
+![DSA](https://img.shields.io/badge/DSA-in%20progress-blue?style=flat-square) ![Backend](https://img.shields.io/badge/Backend-NestJS-informational?style=flat-square)
+
 🔹 Always open to **collaboration** on exciting projects.  
 🔹 ⚡ Fun fact: I love solving complex problems and making sleek, user-friendly interfaces.  
 
@@ -18,9 +20,29 @@
 ---
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aashishjoshi5](https://www.linkedin.com/in/aashish-joshi-a72a71228/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-joshi-a72a71228/)
+
 
 
 ---
 
-<img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=ecf05e47ao5s20ic49qxcmn2imsd60vobj94hpmbqn1nj5st&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200">
+# 💪Worktime This week:
+<!--START_SECTION:waka-->
+
+```txt
+From: 26 April 2025 - To: 03 May 2025
+
+Total Time: 3 hrs 8 mins
+
+TypeScript   2 hrs 21 mins   ██████████████████▓░░░░░░   74.83 %
+Other        37 mins         █████░░░░░░░░░░░░░░░░░░░░   19.92 %
+JSON         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+```
+
+<img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=ecf05e47ao5s20ic49qxcmn2imsd60vobj94hpmbqn1nj5st&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200">  
+
+
+> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
