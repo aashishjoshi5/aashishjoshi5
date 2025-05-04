@@ -26,20 +26,9 @@
 
 ---
 
-# 💪Worktime This week:
+### 💪 Worktime This Week
 <!--START_SECTION:waka-->
-
-```txt
-From: 26 April 2025 - To: 03 May 2025
-
-Total Time: 3 hrs 8 mins
-
-TypeScript   2 hrs 21 mins   ██████████████████▓░░░░░░   74.83 %
-Other        37 mins         █████░░░░░░░░░░░░░░░░░░░░   19.92 %
-JSON         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-```
+<!--END_SECTION:waka-->
 
 <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=ecf05e47ao5s20ic49qxcmn2imsd60vobj94hpmbqn1nj5st&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200">  
 
