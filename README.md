@@ -16,6 +16,8 @@
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashishjoshi5&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishjoshi5&layout=compact&theme=radical)  
+<img src="https://github-profile-trophy.vercel.app/?username=aashishjoshi5&theme=juicyfresh&no-bg=true" />
+
 
 ---
 
@@ -42,6 +44,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=ecf05e47ao5s20ic49qxcmn2imsd60vobj94hpmbqn1nj5st&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200">  
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
 > *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
