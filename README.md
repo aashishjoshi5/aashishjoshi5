@@ -32,14 +32,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2025 - To: 24 July 2025
+From: 18 July 2025 - To: 25 July 2025
 
-Total Time: 2 hrs 53 mins
+Total Time: 0 secs
 
-TypeScript   2 hrs 33 mins   ██████████████████████░░░   88.43 %
-Python       12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Bash         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
