@@ -32,14 +32,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2025 - To: 25 August 2025
+From: 19 August 2025 - To: 26 August 2025
 
-Total Time: 22 mins
+Total Time: 0 secs
 
-Python       14 mins         ████████████████░░░░░░░░░   64.23 %
-Text         5 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.07 %
-JSON         2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
