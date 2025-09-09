@@ -32,11 +32,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2025 - To: 07 September 2025
+From: 01 September 2025 - To: 08 September 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 50 mins
 
-No activity tracked
+TypeScript   1 hr 17 mins    █████████████████▒░░░░░░░   69.83 %
+Other        14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+JSON         11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
+TSConfig     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
 
 <!--END_SECTION:waka-->
